@@ -4,7 +4,7 @@ I'm Mike an aspiring Full Stack Developer!
 
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me:
-- ⚡ Fun fact: Without sloths there would be no avocados
+- ⚡ Fun fact: Without sloths there would be no avocados :seedling:
 
 "It is the struggle itself that is most important. We must strive to be more than we are. It does not matter that we will never reach our ultimate goal. The effort yields its own rewards."
 
