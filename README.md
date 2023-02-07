@@ -2,7 +2,7 @@
 
 I'm Mike an aspiring Full Stack Developer!
 
-- 🌱 I’m currently learning: All the Full Stack Things at iO Academy
+- 🌱 I’m currently learning: Angular & Node.js
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [Email](mailto:hello@mike-oram.co.uk) is your best bet, or drop me a DM on [Discord](https://discordapp.com/users/#SlothSan0404)
 - ⚡ Fun fact: Without sloths there would be no avocados :seedling:
