@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Mike an aspiring Full Stack Developer!
+I'm Mike a Junior Angular Developer @Rockpool Digital!
 
 - 🌱 I’m currently learning: Angular & Node.js
 - 😄 Pronouns: He/Him/His
