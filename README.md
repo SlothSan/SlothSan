@@ -2,7 +2,7 @@
 
 I'm Mike a Junior Angular Developer @Rockpool Digital!
 
-- 🌱 I’m currently learning: Angular & Node.js
+- 🌱 I’m currently learning: Angular & C#
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [Email](mailto:hello@mike-oram.co.uk) is your best bet, or drop me a DM on [Discord](https://discordapp.com/users/#SlothSan0404)
 - ⚡ Fun fact: Without sloths there would be no avocados :seedling:
